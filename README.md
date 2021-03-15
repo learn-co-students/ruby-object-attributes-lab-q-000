@@ -8,8 +8,6 @@
 
 ## Overview
 
-Hello!!!
-
 This lab is all about using instance variables within a class to create methods that represent attributes or properties of an object.
 
 ## Instructions
